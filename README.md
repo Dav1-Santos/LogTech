@@ -2,13 +2,13 @@
 🚧 README em construção... 🚧
 </h4>
 
-# Equipe 3 - LogTech
+# **Equipe 3 - LogTech**
 
-## Sobre o projeto:
+## *Sobre o projeto:*
 
 Projeto baseado na metodologia ágil Scrum e tem como propósito conduzir a análise da produtividade das rotas de uma empresa embarcadora, buscando otimizar sua distribuição e, consequentemente, reduzir os custos logísticos.
 
-# Índice
+# *Índice*
 * [Objetivos específicos do projeto](#objetivo-específicos-do-projeto)
 * [GitHub como ferramenta de apoio](#github-como-ferramenta-de-apoio)
 * [cronograma](#cronograma)
@@ -19,7 +19,7 @@ Projeto baseado na metodologia ágil Scrum e tem como propósito conduzir a aná
 
 ##
 
-# Objetivo específicos do projeto
+# *Objetivo específicos do projeto*
 
 Este projeto visa oferecer percepções valiosas e soluções para melhorar a eficiência operacional e a rentabilidade da empresa parceira.
 
@@ -28,7 +28,7 @@ Este projeto visa oferecer percepções valiosas e soluções para melhorar a ef
 - Criação de um visualizador de indicadores em BI.
 - Aplicação do método de transportes para otimização da distribuição.
 
-# GitHub como ferramenta de apoio
+# *GitHub como ferramenta de apoio*
 
 Este projeto, hospedado na plataforma GitHub, tem como objetivo facilitar o ambiente colaborativo, proporcionando suporte e facilidade na utilização desta plataforma, visando:
 
@@ -38,7 +38,7 @@ Este projeto, hospedado na plataforma GitHub, tem como objetivo facilitar o ambi
 - Facilitar o compartilhamento de arquivos e permitir o trabalhado colaborativo.
 - Desenvolver habilidades técnicas.
 
-# Cronograma
+# *Cronograma*
 
 Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos Integradores), visando o ensino e aprendizado. Ele se baseia nos pilares de aprendizado com problemas reais, focando no desenvolvimento de competências, validação externa e mentalidade ágil. Utilizamos estratégias para compreender o problema, conceber uma solução viável durante o desenvolvimento e implementar o MVP (Mínimo Produto Viável).
 
@@ -51,7 +51,7 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 | 4                  | 19/06/2024   | A fazer       |
 | Feira de Soluções  | 27/06/2024   | A fazer       |
 
-# Backlog do produto
+# *Backlog do produto*
 
 | Rank | Prioridade | User Story                                                                                                                                                                                               | Sprint |
 |:----:|:----------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------:|
@@ -70,7 +70,7 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 
 
 
-## Mínimo produto viável (MVP)
+## *Mínimo produto viável (MVP)*
 
 | Sprint | MVP |
 |:------:|---|
@@ -79,7 +79,7 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 |   3    | Realização de uma análise detalhada da amostra, incluindo uma avaliação mês a mês para fornecer insights sobre as tendências e variações ao longo do tempo. Além disso, criação de um código em Python para identificar o melhor cenário visando a minimização dos custos da empresa, e estabelecimento de metas futuras da organização. |
 |   4    | Ajustes necessários para alinhar o projeto com a realidade operacional da organização.  |
 
-# Sprints
+# *Sprints*
 
 <details> 
 <summary><b>Sprint 1</b></summary> 
@@ -88,7 +88,7 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 
 [Sprint 1](https://github.com/Gustavorma/LogTech/blob/main/Sprint%201.pdf) | [![MVP Sprint 1](https://user-images.githubusercontent.com/164095128/325018521-0d1cad8c-299e-41eb-a9c3-5f6f86f8ad12.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM5MTQ1OTksIm5iZiI6MTcxMzkxNDI5OSwicGF0aCI6Ii8xNjQwOTUxMjgvMzI1MDE4NTIxLTBkMWNhZDhjLTI5OWUtNDFlYi1hOWMzLTVmNmY4NmY4YWQxMi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyM1QyMzE4MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNjEyYjlkYTgzZTBlYTg2MzRjMmY5ZTMxYWVmODQ0ZWNiNDExMGJlM2QwMzczN2YwZWZhOWJhMWJiMzZjZDg4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.QaOlip-Q3vVfAV8x8dPumvoXnEpjsgitMFL67_O_FoM)](https://github.com/Gustavorma/LogTech/issues/1)
 
-### Tecnologias utilizadas
+### *Tecnologias utilizadas*
 - GitHub
 - Jira Software
 - Slack
@@ -98,7 +98,7 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 
 ## 
 
-# Autores
+# *Autores*
 
 | Função         | Nome              | Contato                                                                                                                                                             |
 |:--------------:|:-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
