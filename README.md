@@ -88,6 +88,10 @@ Projeto pedagógico fundamentado na Metodologia API (Aprendizagem por Projetos I
 |   3    | Realização de uma análise detalhada da amostra, incluindo uma avaliação mês a mês para fornecer insights sobre as tendências e variações ao longo do tempo. Além disso, criação de um código em Python para identificar o melhor cenário visando a minimização dos custos da empresa, e estabelecimento de metas futuras da organização. |
 |   4    | Ajustes necessários para alinhar o projeto com a realidade operacional da organização.  |
 
+![alt text](https://www.canva.com/design/DAGGbCuM480/nDVYC4vf9_yobAuQKkWI9A/edit?utm_content=DAGGbCuM480&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+![alt text](https://www.canva.com/design/DAGGcd4Yw-8/va6NEBQBC4yhy5NNaS9FUA/edit?utm_content=DAGGcd4Yw-8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 # Sprints
 
 <details> 
